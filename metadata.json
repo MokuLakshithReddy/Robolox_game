@@ -1,0 +1,6 @@
+{
+  "name": "Loot Shift Lockdown",
+  "description": "Scavenge abandoned districts, avoid the Warden, and extract before lockdown in Loot Shift Lockdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
