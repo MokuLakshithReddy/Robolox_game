@@ -1,5 +1,8 @@
 # Loot Shift: Lockdown — Extraction Survival Prototype
 
+[![Forks](https://img.shields.io/github/forks/MokuLakshithReddy/Robolox_game?style=flat-square)](https://github.com/MokuLakshithReddy/Robolox_game/forks) [![Open Issues](https://img.shields.io/github/issues/MokuLakshithReddy/Robolox_game?style=flat-square)](https://github.com/MokuLakshithReddy/Robolox_game/issues)
+
+
 A browser-based 3D extraction-survival game prototype. Players enter an abandoned district, scavenge loot, manage a limited satchel, complete a contract, and extract before the district lockdown timer expires. The repository also contains experimental Roblox Luau service scaffolding in separate phase folders.
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111)](https://react.dev/)
